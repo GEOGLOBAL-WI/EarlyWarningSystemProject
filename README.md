@@ -12,7 +12,7 @@ EWSP is powered by a set of open source projects, API's and open source codes, a
 Basically it is collections of various Scientific methodologies, operational codes, software and proven programming code base contributed by Open Source enthusiasts from all around the world. 
 
 
-Join the weekly EWSP Community video call • Fridays @ 12:30am CT : https://meet.jit.si/EWSP
+Join the weekly EWSP Community video call • Fridays @ 11:30am CT : https://meet.jit.si/EWSP
 
 
 
